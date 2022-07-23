@@ -11,7 +11,7 @@ default:
   run:
     working-directory: container
 
-job:
+jobs:
   build:
     runs-on: ubuntu-latest
     
